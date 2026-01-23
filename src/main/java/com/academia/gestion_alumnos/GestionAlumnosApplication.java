@@ -1,4 +1,4 @@
-package com.acedemia.gestion_alumnos;
+package com.academia.gestion_alumnos;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
